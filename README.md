@@ -3,9 +3,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- The Prework Study Guide is a space for students track what they have learned so far in the prework modules. Students can visually see what they have built and get exposure to the processes and tools of what web developers may use for their real world projects. 
+The Prework Study Guide is a space for students track what they have learned so far in the prework modules. Students can visually see what they have built and get exposure to the processes and tools of what web developers may use for their real world projects. 
 
 ## Installation
 
