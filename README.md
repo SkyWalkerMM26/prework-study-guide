@@ -3,7 +3,7 @@
 
 ## Description
 
-The Prework Study Guide is a space for students track what they have learned so far in the prework modules. Students can visually see what they have built and get exposure to the processes and tools of what web developers may use for their real world projects. 
+The Prework Study Guide is a space for students to track what they have learned so far in the prework modules. Students can visually see what they have built and get exposure to the processes and tools of what web developers may use for their real world projects. 
 
 ## Installation
 
